@@ -1,0 +1,42 @@
+Blynk app: 2 button control fan and bulb.
+Google home: voice controling.
+Hardware: 2 button - 2 relay - NodeMCU - Box - Wires.
+
+- AutoReconnect Wifi.
+- Offline Mode.
+- Click 1 button to SmartConfig.
+
+Step 1 : Install and Configure Blynk App (0:47)
+Step 2 : Downloading and Setting up Arduino IDE and Blynk Libraries (2:24)
+Step 3 : Hardware Assembly (6:31)
+Step 4 : Configuring IFTTT (10:16)
+
+
+Create more APPLETS on IFTTT
+FAN:
+- turn on my fan
+- it is too hot
+- my fan on please
+
+- turn off my fan
+- it is too cold
+- my fan off please
+
+LIGHT:
+- turn on my light
+- it is too dark
+- my light on please
+
+- turn off my light
+- it is too bright
+- my light off please
+
+TURN ON/OFF ALL:
+- working time
+- i need to work
+- turn on all my things
+
+- sleeping time
+- i am going to outside
+- turn off all my things
+
